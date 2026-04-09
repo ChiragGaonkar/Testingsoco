@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX softwarecompany.pk_papapedro ON softwarecompany.papapedro(emp_id);
