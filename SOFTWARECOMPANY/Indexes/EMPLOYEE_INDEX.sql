@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX softwarecompany.employee_index ON softwarecompany.employee(emp_id);
